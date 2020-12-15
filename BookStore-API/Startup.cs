@@ -48,7 +48,7 @@ namespace BookStore_API
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
                     Title = "Book Store API",
-                    Description = "Educational Book Store API",
+                    Description = "Educational Book Store API - Learning",
                     Version = "v.1.0"
                 });
 
