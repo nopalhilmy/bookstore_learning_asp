@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A2CF88B4-E6C9-42AB-A619-2D5EDC64C36D}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookStore-API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStore-API/Startup.cs">
+    <Files>
+      <File FileName="BookStore-API/Startup.cs" Line="68" Column="38" />
+      <File FileName="BookStore-API/Controllers/HomeController.cs" />
+      <File FileName="BookStore-API/nlog.config" />
+      <File FileName="BookStore-API/Contracts/IloggerService.cs" />
+      <File FileName="BookStore-API/Services/LoggerService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookStore-API" expanded="True">
+            <Node name="BookStore-API" expanded="True">
+              <Node name="Contracts" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
